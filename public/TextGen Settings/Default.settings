@@ -1,12 +1,12 @@
 {
     "temp": 1.37,
-    "top_p": 0.5,
+    "top_p": 0.85,
     "top_k": 80,
     "top_a": 0.2,
     "tfs": 1,
     "epsilon_cutoff": 0,
     "eta_cutoff": 0,
-    "typical_p": 0.5,
+    "typical_p": 0.85,
     "rep_pen": 1.07,
     "rep_pen_range": 0,
     "no_repeat_ngram_size": 0,
@@ -27,6 +27,6 @@
     "mirostat_tau": 5,
     "mirostat_eta": 0.1,
     "rep_pen_size": 0,
-    "genamt": 128,
-    "max_length": 2000
+    "genamt": 1024,
+    "max_length": 3508
 }
