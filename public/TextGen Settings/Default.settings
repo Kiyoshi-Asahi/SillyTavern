@@ -27,6 +27,6 @@
     "mirostat_tau": 5,
     "mirostat_eta": 0.1,
     "rep_pen_size": 0,
-    "genamt": 1024,
-    "max_length": 3508
+    "genamt": 250,
+    "max_length": 2048
 }
